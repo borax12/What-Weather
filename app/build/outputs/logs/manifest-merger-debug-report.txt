@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/b749fd4388516f7b323bd34007a77161/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3324889632f710c088e1f5d3dc08cd4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4117abc0d07a1c332b7bfd8f1621d48d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2c5eed4bda3f5b91c990826a0ac937ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/053efa2aacbcecfeb00a816258167a22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4a12aeec1ff67e3b601aa6427da04ef6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/bef86c4b20c8ad3885a61521a3798cab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1b051b0dc5797b323db2c31266055731/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dcd40dacd6cec1b93d24ae97143677c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/069caa75cba94cd4de8b648df420c23f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f2e6bdcf708f6374b23b026b03b72811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7615407b7c497233c0aa5794205403ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/fbb741197842abb27a97a01611000cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/c34b75fa8a7fbbaa9982495ce34b42e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3c2d134dca586ffeb15221a8824aa614/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2d99f8d516df7fe5cd959c1eba0786cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/694c2b89c7e53cd4939d01f0ccf2f65c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/d3f6c9f1763cc70e5c958aedf57b6770/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/985989f4dbc543d0e22661a5c8b7c1dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f9bc2895fc84755a60dd5cb020f27531/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dab753a74e9332bdd9bafa32a391ea18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f5a0844acaf2aa8929e07c216b696042/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e05ed676423c15d4bed950f0248fd24d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7fbc10a2438059078e6d94373784124a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/61d4e5cfd9205d0009df4bbfa3da806d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e9e13471a7c84252af0cd515d6515169/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/abf0c98066b40530a8e5c34d52a455dc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/694c2b89c7e53cd4939d01f0ccf2f65c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/694c2b89c7e53cd4939d01f0ccf2f65c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.borax.whatweather.WeatherActivity
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:15:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/b749fd4388516f7b323bd34007a77161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/b749fd4388516f7b323bd34007a77161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3324889632f710c088e1f5d3dc08cd4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3324889632f710c088e1f5d3dc08cd4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4117abc0d07a1c332b7bfd8f1621d48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4117abc0d07a1c332b7bfd8f1621d48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2c5eed4bda3f5b91c990826a0ac937ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2c5eed4bda3f5b91c990826a0ac937ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/053efa2aacbcecfeb00a816258167a22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/053efa2aacbcecfeb00a816258167a22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4a12aeec1ff67e3b601aa6427da04ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/4a12aeec1ff67e3b601aa6427da04ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/bef86c4b20c8ad3885a61521a3798cab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/bef86c4b20c8ad3885a61521a3798cab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1b051b0dc5797b323db2c31266055731/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1b051b0dc5797b323db2c31266055731/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dcd40dacd6cec1b93d24ae97143677c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dcd40dacd6cec1b93d24ae97143677c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/069caa75cba94cd4de8b648df420c23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/069caa75cba94cd4de8b648df420c23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f2e6bdcf708f6374b23b026b03b72811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f2e6bdcf708f6374b23b026b03b72811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7615407b7c497233c0aa5794205403ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7615407b7c497233c0aa5794205403ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/fbb741197842abb27a97a01611000cfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/fbb741197842abb27a97a01611000cfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/c34b75fa8a7fbbaa9982495ce34b42e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/c34b75fa8a7fbbaa9982495ce34b42e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3c2d134dca586ffeb15221a8824aa614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/3c2d134dca586ffeb15221a8824aa614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2d99f8d516df7fe5cd959c1eba0786cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/2d99f8d516df7fe5cd959c1eba0786cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/1af94fc550f72baffc30c7bb9360bf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/694c2b89c7e53cd4939d01f0ccf2f65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/694c2b89c7e53cd4939d01f0ccf2f65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/d3f6c9f1763cc70e5c958aedf57b6770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/d3f6c9f1763cc70e5c958aedf57b6770/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/985989f4dbc543d0e22661a5c8b7c1dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/985989f4dbc543d0e22661a5c8b7c1dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f9bc2895fc84755a60dd5cb020f27531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f9bc2895fc84755a60dd5cb020f27531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dab753a74e9332bdd9bafa32a391ea18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/dab753a74e9332bdd9bafa32a391ea18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f5a0844acaf2aa8929e07c216b696042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/f5a0844acaf2aa8929e07c216b696042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e05ed676423c15d4bed950f0248fd24d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e05ed676423c15d4bed950f0248fd24d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7fbc10a2438059078e6d94373784124a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/borax12/.gradle/caches/transforms-2/files-2.1/7fbc10a2438059078e6d94373784124a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/61d4e5cfd9205d0009df4bbfa3da806d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/61d4e5cfd9205d0009df4bbfa3da806d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e9e13471a7c84252af0cd515d6515169/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/e9e13471a7c84252af0cd515d6515169/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/abf0c98066b40530a8e5c34d52a455dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/borax12/.gradle/caches/transforms-2/files-2.1/abf0c98066b40530a8e5c34d52a455dc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/What-Weather/app/src/main/AndroidManifest.xml
